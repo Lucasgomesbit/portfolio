@@ -2,7 +2,7 @@
 
 Portfólio pessoal responsivo desenvolvido com HTML, CSS e JavaScript para apresentar minha trajetória na área de tecnologia, habilidades e projetos práticos.
 
-🔗 **Acesse online:** https://lucasgomesbit.github.io/NOME-DO-REPOSITORIO
+🔗 **Acesse online:** https://lucasgomesbit.github.io/portfolio
 
 ## Funcionalidades
 - Alternância entre tema escuro e tema claro (com salvamento automático).
@@ -25,4 +25,4 @@ Portfólio pessoal responsivo desenvolvido com HTML, CSS e JavaScript para apres
 ## Como executar localmente
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/Lucasgomesbit/NOME-DO-REPOSITORIO.git](https://github.com/Lucasgomesbit/NOME-DO-REPOSITORIO.git)
+   git clone [https://github.com/Lucasgomesbit/portfolio.git](https://github.com/Lucasgomesbit/portfolio.git)
